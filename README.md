@@ -66,11 +66,11 @@ npx skills add m1nga/extend-first
 
 ## Works well with
 
-- [idea-probe](https://github.com/m1nga/idea-probe) — the sibling gate for everything that *isn't* a
+- [idea-probe](https://github.com/m1nga/idea-probe/) — the sibling gate for everything that *isn't* a
   skill: product, site, and feature ideas get persona wind-tunneling there. If
   your idea is a skill, extend-first checks the shelf first; if it survives as
   BUILD NEW and you want the concept itself tested, idea-probe is next.
-- [scenario-probe](https://github.com/m1nga/scenario-probe) — after a BUILD NEW verdict, the drafted
+- [scenario-probe](https://github.com/m1nga/scenario-probe/) — after a BUILD NEW verdict, the drafted
   boundary clause and the eventual description should be wind-tunneled before
   release. extend-first prevents overlap at birth; scenario-probe catches what
   slipped through.
@@ -104,7 +104,7 @@ Before release, this skill went through an 8-scenario wind tunnel — 5 personas
 
 > **Caught in the tunnel:** on "make me a skill…", the stock skill-creator claims the same sentence — and a model that jumps straight to authoring skips the duplicate check entirely, which is this skill's whole reason to exist. The description now states its position explicitly: *runs BEFORE skill-authoring tools — verdict first, then build.* The probe also caught the empty-shelf edge: a reachable-but-bare shelf is now an instant one-line BUILD NEW, never a nag for directory paths.
 
-Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe)
+Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 
 ## Author
 
