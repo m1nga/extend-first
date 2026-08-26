@@ -1,4 +1,4 @@
-# extend-first
+# Check Existing Skills Before Building Another One
 
 **The librarian at the door: before you build skill #24, find out that skill #11
 already does it.**
