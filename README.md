@@ -1,7 +1,20 @@
-# Check Existing Skills Before Building Another One
+# Avoid Duplicate Agent Skills Before Building Another One
 
-**The librarian at the door: before you build skill #24, find out that skill #11
-already does it.**
+Before you build another agent skill, check the skills you already own and get
+one evidence-based verdict: **EXTEND**, **COMPOSE**, or **BUILD NEW**.
+
+## Quick answers
+
+- **What problem does it solve?** It exposes forgotten overlap before duplicate
+  agent skills are built with competing trigger surfaces.
+- **What does it return?** Exactly one short verdict: extend one existing skill,
+  compose two existing skills, or build a genuinely separate skill.
+- **How does it compare candidates?** By the problem solved, input/output shape,
+  and judgment-versus-execution nature — never by names or keyword similarity.
+- **Does it create or edit skills?** No. It inventories and recommends; the
+  actual authoring remains a separate, user-controlled step.
+- **Can the check be overridden?** Yes. “Build it anyway” ends the gate in the
+  same turn without relitigating the decision.
 
 ## The problem it actually solves
 
@@ -108,4 +121,5 @@ Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 
 ## Author
 
-Built by [Ming](https://github.com/m1nga). The design notes above explain the real problem and tradeoffs that shaped this skill.
+Built and maintained by [Ming](https://github.com/m1nga). The design notes
+above explain the real problem and tradeoffs that shaped this skill.
